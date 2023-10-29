@@ -1,9 +1,13 @@
-### Hi there 👋
+### Hi there 👋 Thanks for dropping by!
 
-
+- Full-stack developer making accessible, responsive web pages and always looking for the next idea for an app
+- Also always looking to learn more Python
+- I wrote an app using Node.js, Express and MongoDB to handle registration, judging and prize awards for Fen Model Show:
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Christina-Milner&repo=fms)](https://github.com/Christina-Milner/fms)
-<hr>
 
+https://fenmodelshow.cyclic.app
+<hr>
+## Get in touch
 
 [![Gmail Badge](https://img.shields.io/badge/-info@christina<dash>milner.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@christina-milner.dev)](mailto:info@christina-milner.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-milnerc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milnerc/)](https://www.linkedin.com/in/milnerc/)
@@ -11,7 +15,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@cmilner_dev-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=cmilner_dev "Follow on Twitter")
 
 
-## ⚡ Technologies
+## Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -22,6 +26,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
+## Other
+
+My favourite watch: https://www.twitch.tv/dashducks/ 
+I wish I had come up with the idea of using Node to remotely feed ducks 🦆
 
 <!--
 **Christina-Milner/Christina-Milner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
