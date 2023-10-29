@@ -5,9 +5,9 @@
 <hr>
 
 
-[![Gmail Badge](https://img.shields.io/badge/-info@christina-milner.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@christina-milner.dev)](mailto:info@christina-milner.dev)
+[![Gmail Badge](https://img.shields.io/badge/-info@christina<dash>milner.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@christina-milner.dev)](mailto:info@christina-milner.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-milnerc-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/milnerc/)](https://www.linkedin.com/in/milnerc/)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/milnerc)](https://github.com/milnerc)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white&link=https://github.com/Christina-Milner)](https://github.com/Christina-Milner)
 [![Twitter Badge](https://img.shields.io/badge/-@cmilner_dev-00acee?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=cmilner_dev "Follow on Twitter")
 
 
