@@ -1,11 +1,17 @@
 ### Hi there 👋 Thanks for dropping by!
 
+<img src="https://www.codewars.com/users/Christina_M/badges/small">
+
 - Full-stack developer making accessible, responsive web pages and always looking for the next idea for an app
 - Also always looking to learn more Python
-- I wrote an app using Node.js, Express and MongoDB to handle registration, judging and prize awards for Fen Model Show:
+- I wrote an app using Node.js, Express and MongoDB to handle registration, judging and prize awards for Fen Model Show
+
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Christina-Milner&repo=fms)](https://github.com/Christina-Milner/fms)
 
+
 https://fenmodelshow.cyclic.app
+
 
 ## Get in touch
 
