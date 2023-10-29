@@ -6,7 +6,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Christina-Milner&repo=fms)](https://github.com/Christina-Milner/fms)
 
 https://fenmodelshow.cyclic.app
-<hr>
+
 ## Get in touch
 
 [![Gmail Badge](https://img.shields.io/badge/-info@christina<dash>milner.dev-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:info@christina-milner.dev)](mailto:info@christina-milner.dev)
@@ -28,7 +28,8 @@ https://fenmodelshow.cyclic.app
 
 ## Other
 
-My favourite watch: https://www.twitch.tv/dashducks/ 
+My favourite for watching while working: https://www.twitch.tv/dashducks/
+
 I wish I had come up with the idea of using Node to remotely feed ducks 🦆
 
 <!--
