@@ -10,7 +10,7 @@
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Christina-Milner&repo=fms)](https://github.com/Christina-Milner/fms)
 
 
-[https://fenmodelshow.cyclic.app](https://fenmodelshow.glitch.me)
+[https://fenmodelshow.glitch.me](https://fenmodelshow.glitch.me)
 
 
 ## Get in touch
